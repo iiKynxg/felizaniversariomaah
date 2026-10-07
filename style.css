@@ -53,7 +53,6 @@ h1.intro-enter{animation-delay:.15s}.intro-description.intro-enter{animation-del
 .letter{max-width:615px;margin:auto;font-size:18px;line-height:1.9;color:#c6babe}
 .letter-salutation{display:block;font-family:var(--serif);font-size:34px;font-style:italic;color:var(--rose);margin-bottom:35px}
 .letter p{margin-bottom:27px}
-.letter .letter-pause{margin:65px 0;font-family:var(--serif);font-size:32px;line-height:1.4;color:var(--ink);letter-spacing:-.02em}
 .letter .love-line{margin:69px 0 58px}
 .love-line strong{font-family:var(--serif);font-size:38px;font-weight:700;color:var(--rose-bright);letter-spacing:-.05em;text-shadow:0 0 45px rgba(220,156,178,.13)}
 .letter-divider{height:1px;width:47px;background:var(--line);margin:66px 0}
@@ -149,7 +148,7 @@ input[aria-invalid=true]{border-color:#b57688}
   .eyebrow{font-size:9px;letter-spacing:.19em}.intro-description{max-width:360px;font-size:14px}.desktop-break{display:none}
   .intro-note{font-size:12px}.intro .primary-button{margin-top:30px}.scroll-cue{font-size:8px;bottom:20px}
   .letter-section{padding:100px 27px 35px}.letter-heading{margin-bottom:66px}.letter-heading h2{font-size:32px}.letter-heading>p{font-size:16px}
-  .letter{font-size:17px;line-height:1.85}.letter p{margin-bottom:25px}.letter .letter-pause{font-size:29px;margin:48px 0}.letter .love-line{margin:52px 0}.love-line strong{font-size:34px}
+  .letter{font-size:17px;line-height:1.85}.letter p{margin-bottom:25px}.letter .love-line{margin:52px 0}.love-line strong{font-size:34px}
   .letter-divider{margin:50px 0}.surprise-section{padding:135px 25px 140px;min-height:710px}.surprise-section h2{font-size:39px}.surprise-lead{font-size:13px;max-width:300px;margin:auto}
   #unlock-form{margin-top:36px}.input-row{flex-direction:column;gap:14px;max-width:350px}.input-row .primary-button{width:100%;min-height:54px}#unlock-form label{font-size:13px}
   .memories-section{padding-top:10px}.memories-heading{margin:75px auto 65px}.memories-heading h2{font-size:42px;max-width:330px;margin:24px auto}.memories-heading>p{font-size:14px}
